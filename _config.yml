@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Chuah Chen's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Chuah Chen"
+description              : &description "Chuah Chen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,13 @@ author:
   avatar           : "profile.png"
   name             : "Chuah Chen"
   pronouns         : "He/Him"
-  bio              : "Im skibidi sigma"
-  location         : "Earth"
+  bio              : "Chuah Chen is a 13-year-old aspiring software developer and cybersecurity enthusiast. With a passion for technology, Chuah has been coding since a young age, gaining proficiency in Python, C#, and CSS. By the age of 9, Chuah had already embarked on a remarkable journey in cybersecurity, working as a penetration tester for large companies, identifying vulnerabilities, and helping enhance their security systems.
+Aside from coding, Chuah excels academically, consistently achieving perfect scores across all subjects. When not programming, Chuah enjoys playing badminton and stays active with a keen interest in personal growth and learning.
+A future-focused individual, Chuah is determined to continue expanding knowledge in technology, programming, and cybersecurity while contributing to the tech community."
+  location         : "Penang,Malaysia"
   employer         : "Chung Ling Private High School"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s25428@clphs.edu.my" 
 
   # Academic websites
   academia         : # URL
